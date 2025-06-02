@@ -1,8 +1,8 @@
-# 🎮 NNCS - Link3DS Nintendo NAT Check Server Replacement
+# 🎮 Link3DS Nintendo NAT Check Server Replacement
 - NNCS is an alternative to Nintendo's NAT verification server for **Link3DS** systems. This project manages different message types to facilitate network communication between devices.
 
 ## 🚀 Features
-- Currently supported message types:
+- Currently supported message types:  
 🔲 **Message type 1** *(under development)*  
 🔲 **Message type 2** *(under development)*  
 🔲 **Message type 3** *(under development)*  
